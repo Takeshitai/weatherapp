@@ -1,0 +1,18 @@
+[33mcommit f6ad0668d058ace08054d524e5ebc83bf9a55871[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 7098ac5 96f3c11
+Author: Izumi Takeshita <izumi114@gmail.com>
+Date:   Tue Aug 29 10:52:11 2023 -0700
+
+    Merge branch 'main' of https://github.com/Takeshitai/weatherapp
+
+[33mcommit 7098ac5349acdb90977e36c77997994c3ddade6f[m
+Author: Izumi Takeshita <izumi114@gmail.com>
+Date:   Tue Aug 29 10:45:30 2023 -0700
+
+    Initial commit
+
+[33mcommit 96f3c118d6b9a6da4d6c801f1b88bb0e6f201b72[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Takeshita <106618911+Takeshitai@users.noreply.github.com>
+Date:   Tue Aug 29 10:44:58 2023 -0700
+
+    Initial commit
